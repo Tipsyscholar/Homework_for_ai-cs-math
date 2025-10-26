@@ -27,8 +27,7 @@ def multi_head_attention(Q, K, V, n_heads):
     #     else:
     #         result=np.concatenate((result,atttntion),axis=-1)
 
-
-    #并且注意用transpose调控
+    #并且注意用transpose()调控，pytorch里对应permute()
     Q=Q.reshape(m,n_heads,head_dim).transpose(1,0,2)
     K=K.reshape(m,n_heads,head_dim).transpose(1,0,2)
     V=V.reshape(m,n_heads,head_dim).transpose(1,0,2)
