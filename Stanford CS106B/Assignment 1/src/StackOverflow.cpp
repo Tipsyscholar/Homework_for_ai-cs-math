@@ -3,13 +3,17 @@
  * Q1: What do you see when you trigger a stack overflow when running the program
  *     without the debugger enabled? Write your answer below.
  *
- *
+ *  Only show terminated abnormally.
  *
  * Q2: What is the sequence of values that repeats in the stack overflow? Write your
  *     answer below.
+ *
+ *     137 164 685 203 327 549 137
  */
 #include "StackOverflow.h"
-
+#include <vector>
+#include <algorithm>
+#include <iostream>
 /* The "Goto Table" for the Stack Overflow example. This is essentially a function
  * that given a number between 0 and 1023 gives back a number between 0 and 1023.
  * Our function uses this table to make it hard to predict what's going to happen
@@ -60,7 +64,16 @@ static constexpr int kGotoTable[] = {
  * the sequence are.
  */
 
-void triggerStackOverflow(int index) {
+std::vector<int> a;
 
+
+void triggerStackOverflow(int index) {
+    if(std::find(a.begin(),a.end(),index)!=a.end()){
+        for(const int& num: a){
+            std::cout<< num<<" "    ;
+        }
+        return ;
+    }
+    a.push_back(index);
     triggerStackOverflow(kGotoTable[index]);
 }
