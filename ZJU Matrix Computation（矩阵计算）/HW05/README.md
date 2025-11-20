@@ -1,9 +1,6 @@
 ![alt text](IMG_20251110_210935.jpg)
-
 ![alt text](IMG_20251110_210941.jpg)
-
 ![alt text](IMG_20251110_210943.jpg)
-
 ![alt text](IMG_20251110_210952.jpg)
-
 ![alt text](IMG_20251110_210955.jpg)
+

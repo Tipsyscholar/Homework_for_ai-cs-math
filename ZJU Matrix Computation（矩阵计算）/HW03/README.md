@@ -1,13 +1,7 @@
 ![alt text](IMG_20251111_182331.jpg)
-
 ![alt text](IMG_20251111_182339.jpg)
-
 ![alt text](IMG_20251111_182344.jpg)
-
 ![alt text](IMG_20251111_182354.jpg)
-
 ![alt text](IMG_20251111_182357.jpg)
-
 ![alt text](IMG_20251111_182403.jpg)
-
 ![alt text](IMG_20251111_182406.jpg)

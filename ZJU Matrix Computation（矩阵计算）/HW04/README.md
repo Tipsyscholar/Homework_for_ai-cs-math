@@ -1,4 +1,3 @@
 ![alt text](IMG_20251110_210826.jpg)
-
 ![alt text](IMG_20251110_210833.jpg)
 
