@@ -46,8 +46,6 @@ https://github.com/Tipsyscholar/Homework_for_ai-cs-math/blob/main/Paper_reading.
 | **MIT 6.S184** | 基于 SDE 的生成式 AI | MIT | SDEs, 扩散模型 (Diffusion Models), Score-Matching |
 |**ZJU CV**|计算机视觉|ZJU |SFM,SLAM,3DCV|
 | **USTC CG** | 计算机图形学 |USTC| C/C++, 3DGS,NeRF|
-|**CMU 15-858**|离散微分几何|CMU| 离散曲线与曲面、外代数、外微分、Stokes定理应用(曲面平滑、参数化、矢量场设计)|
-|**MIT 6.8410**|形状分析 |MIT|离散曲率,度量嵌入,有限元 FEM ,离散外微分DEC,形状对应与映射 |
 ---
 
 ### 🌌 III. 数学 (Math) - 理论护城河
@@ -65,5 +63,6 @@ https://github.com/Tipsyscholar/Homework_for_ai-cs-math/blob/main/Paper_reading.
 | | 机器学习 |MIT & Deep-ML| 随机优化, VC理论, 在线学习, SVM, 应用统计|
 | **3. 应用数学** | 矩阵计算 | ZJU | SVD, QR分解, 特征值数值解, 迭代算法, 矩阵分析|
 | | PDE数值解 | ZJU  | PDE理论,有限元,有限差分 |
+| |应用几何与拓扑|CMU 15-858 & MIT 6.8410| 离散曲率、外微分、有限元FEM、Stokes定理应用(曲面平滑、参数化、矢量场设计)|
 ---
 
