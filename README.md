@@ -21,7 +21,7 @@ https://github.com/Tipsyscholar/Homework_for_ai-cs-math/blob/main/Paper_reading.
 | **UCB CS 61A** | 计算机程序的结构与解释 | UCB | Python, 函数式编程, 抽象思维, 解释器原理 |
 | **Stanford CS 106B&L**| C++ 编程 | Stanford | C++ (现代 C++11/17/20), STL, 模板, RAII |
 | **MIT 6.006** | 算法导论 | MIT & LeetCode | Python, 算法设计, 复杂度分析, 数学证明 |
-| **CMU 15-213**| 计算机系统：程序员视角 (CS:APP) | CMU & UCB | C, x86-64 汇编, OS 用户态, 链接, 缓存, 网络编程 ,CPU Datapath,Pipelining(UCB CS 61C补充)|
+| **CMU 15-213**| 计算机系统：程序员视角 (CS:APP) | CMU & UCB | C, x86-64 汇编, OS 用户态, 链接, 缓存, 网络编程, CPU Datapath, Pipelining(UCB CS 61C补充)|
 | **Stanford CS 149**| 并行计算架构与编程 | Stanford & ZJU & LeetGPU | CUDA, OpenMP, MPI, GPU 编程, 并行架构 |
 | **Stanford CS 144**| 计算机网络 | Stanford | C++, TCP/IP 协议栈实现, 路由, 网络理论 |
 | **UCB CS 162** | 操作系统与系统编程 | UCB | C, OS 内核态, 调度器, 文件系统, 高级并发 |
@@ -63,6 +63,6 @@ https://github.com/Tipsyscholar/Homework_for_ai-cs-math/blob/main/Paper_reading.
 | | 机器学习 |MIT & Deep-ML| 随机优化, VC理论, 在线学习, SVM, 应用统计|
 | **3. 应用数学** | 矩阵计算 | ZJU | SVD, QR分解, 特征值数值解, 迭代算法, 矩阵分析|
 | | PDE数值解 | ZJU  | PDE理论,有限元,有限差分 |
-| |应用几何与拓扑|CMU 15-858 & MIT 6.8410| 离散曲率、外微分、有限元FEM、Stokes定理应用(曲面平滑、参数化、矢量场设计)|
+| |应用几何与拓扑|CMU15-858 & MIT6.8410| 离散曲率、外微分、有限元FEM、Stokes定理应用(平滑、参数化、矢量场设计)|
 ---
 
